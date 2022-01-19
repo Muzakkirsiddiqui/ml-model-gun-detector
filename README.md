@@ -65,6 +65,8 @@ Following are the results on test data with confidence score>0.4
 | --- | --- | --- | --- | --- | ---
 | 'Gun' | 0.85 | 0.9 | 0.91 |0.552 | 28 |
 
+![Capture](https://user-images.githubusercontent.com/97952352/150194092-740f630e-5af0-430b-a20b-d4df38c822e3.JPG)
+
 ### Testing instructions 
 
 1.Change directory to dev/yolov5/
